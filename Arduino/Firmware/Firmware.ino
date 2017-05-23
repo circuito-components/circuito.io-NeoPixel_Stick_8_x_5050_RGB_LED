@@ -9,7 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define LEDSTICK_PIN_DATAIN	2
 
 // =======================Pin Definitions // ===================================
 
